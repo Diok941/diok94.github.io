@@ -1,2 +1,2 @@
 # WomenDay
-Link web demo: https://diok941Khanh.github.io
+Link web: https://diok941Khanh.github.io
